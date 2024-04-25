@@ -11,4 +11,5 @@ os (usually comes pre-installed with Python)
 langchain
 langchain_community
 langchain_openai
+langsmith and @traceable
 streamlit
